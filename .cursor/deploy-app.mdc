@@ -1,5 +1,1 @@
 Deploying the app to production is powered by Netlify, however, it's only possible as long as there are several tools from netlify available:
-
-If the user asks to deploy the app, use the appropiete netlify MCP tools to deploy the app.
-
-
